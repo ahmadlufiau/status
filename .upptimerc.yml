@@ -13,7 +13,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: @ahmadlufiau Status Page
-  introTitle: "Upptime monitor and status page for @ahmadlufiau"
+  introTitle: "**Upptime**"
+  introMessage: Status page for @ahmadlufiau.
   navbar:
     - title: Status
       href: /status

@@ -12,9 +12,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: @ahmadlufiau Status Page
+  name: "@ahmadlufiau Status Page"
   introTitle: "**Upptime**"
-  introMessage: Status page for @ahmadlufiau.
+  introMessage: "Status page for @ahmadlufiau website"
   navbar:
     - title: Status
       href: /status
